@@ -13,8 +13,8 @@ The goal is to match all pairs of cards before the timer runs out. Players have 
 
 
 ### Links
-- Live Site URL: [https://shivomtiwari27.github.io/Memory-Card-Game/](#) 
-- Source Code: [https://github.com/ShivomTiwari27/Memory-Card-Game](#) 
+- Live Site URL(https://shivomtiwari27.github.io/Memory-Card-Game/) 
+- Source Code(https://github.com/ShivomTiwari27/Memory-Card-Game) 
 
 ## My process
 ### Built with
